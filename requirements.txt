@@ -8,3 +8,4 @@ nibabel
 nipype
 pyxnat
 httplib2
+frontend
